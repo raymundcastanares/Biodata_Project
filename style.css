@@ -1,0 +1,18 @@
+body {
+  font: Arial;
+  padding:0;
+  margin:0;
+  background-color: pink;
+}
+
+h1,h2 {
+  text-align: center;
+  color: navy;
+  margin-top:100px;
+  margin-bottom:10px;
+}
+p{
+    font-size:20px;
+    text-align: center;
+    color:black;
+}
